@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+.next/
+.vercel/
+
+# environment variables
+.env.local
+.env.*
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
